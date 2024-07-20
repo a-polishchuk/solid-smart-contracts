@@ -26,5 +26,5 @@ I am passionate about blockchain technology and aspire to contribute to the web3
 
 I am eager to connect with fellow developers, enthusiasts, and potential collaborators in the web3 space. If you are working on a web3 project or looking for someone enthusiastic about Solidity, feel free to reach out!
 
-[LinkedIn](https://www.linkedin.com/in/andrii-v-polishchuk)
-[Email](mailto:polishchuk91@gmail.com)
+- 👔 [LinkedIn](https://www.linkedin.com/in/andrii-v-polishchuk)
+- 📧 [Email](mailto:polishchuk91@gmail.com)
