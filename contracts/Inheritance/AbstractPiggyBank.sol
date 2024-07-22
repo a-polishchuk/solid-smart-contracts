@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.6.12 <0.9.0;
 
-import "../Ownable.sol";
+import "contracts/Ownable.sol";
 
 abstract contract AbstractPiggyBank is Ownable {
     event Deposit(address from, uint256 amount);

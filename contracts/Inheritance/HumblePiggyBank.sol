@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.6.12 <0.9.0;
 
-import "contracts/PiggyBank/AbstractPiggyBank.sol";
+import "contracts/Inheritance/AbstractPiggyBank.sol";
 
 contract HumblePiggyBank is AbstractPiggyBank {
     uint256 maxDeposit;
